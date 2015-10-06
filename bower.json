@@ -38,6 +38,7 @@
     "*",
     "/dist/.jshintrc",
     "!/bower.json",
-    "!/dist/**"
+    "!/dist/**",
+    "!LICENSE"
   ]
 }
